@@ -1,4 +1,4 @@
-# Gestion de estado básico
+# Gestion de usuario básico
 
 ## Cuando usuario no esta activo
 
