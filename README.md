@@ -1,16 +1,13 @@
-# estados
+# Gestion de estado básico
 
-A new Flutter project.
+## Cuando usuario no esta activo
 
-## Getting Started
+<img src="usuarioInactivo.png" width="300" height=600>
 
-This project is a starting point for a Flutter application.
+## Cuando usuario esta activo
 
-A few resources to get you started if this is your first Flutter project:
+<img src="usuarioActivo.png" width="300" height=600>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Opciones para el usuario
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="usuarioPciones.png" width="300" height=600>
